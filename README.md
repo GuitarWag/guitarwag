@@ -37,7 +37,7 @@ I'm a passionate **Fullstack Software Engineer** and a certified **Google Cloud 
 
 ## 🏆 Certifications
 
-- **Google Cloud Professional Cloud Architect**
+- **Google Cloud Associate Cloud Engineer**
 
 ---
 
