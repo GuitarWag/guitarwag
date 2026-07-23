@@ -98,18 +98,11 @@ AWS — from on-prem migrations to RAG platforms.
 
 ### GitHub activity
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GuitarWag&show_icons=true&count_private=true&hide_border=true&theme=dracula&bg_color=0d0b14&title_color=BD93F9&icon_color=8BE9FD" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuitarWag&layout=compact&hide_border=true&theme=dracula&bg_color=0d0b14&title_color=BD93F9&langs_count=8" alt="Top languages" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuitarWag/guitarwag/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuitarWag/guitarwag/output/github-contribution-grid-snake.svg" />
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/GuitarWag/guitarwag/output/github-contribution-grid-snake.svg" />
 </picture>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GuitarWag&bg_color=0d0b14&color=bd93f9&line=8be9fd&point=ffffff&area=true&hide_border=true" alt="Contribution graph" width="100%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=GuitarWag&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub trophies" />
 
 </div>
 
