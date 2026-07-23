@@ -10,7 +10,7 @@ financial services. Eight years shipping production systems across GCP and
 AWS — from on-prem migrations to RAG platforms.
 
 [![Website](https://img.shields.io/badge/wagnersilva.eu-0d0b14?style=for-the-badge&logo=googlechrome&logoColor=BD93F9)](https://wagnersilva.eu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wagner-silva-6363a1154)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wagnersilva-eu)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wagnersilva.eu.cloud@gmail.com)
 [![Profile views](https://komarev.com/ghpvc/?username=GuitarWag&style=for-the-badge&color=bd93f9&label=Profile+views)](https://github.com/GuitarWag)
 
@@ -65,6 +65,7 @@ AWS — from on-prem migrations to RAG platforms.
 
 | Credential | Issuer | Valid | Verify |
 |---|---|---|---|
+| Professional Cloud Architect | Google Cloud | 2026 | [Credly](https://www.credly.com/badges/9e4d8ce9-9429-4655-8fc8-aa20c880ea99/public_url) |
 | Associate Cloud Engineer | Google Cloud | 2025 | [Credly](https://www.credly.com/badges/73a3b178-df93-4a4e-b47b-1c3f067a7271/public_url) |
 | Cloud Practitioner | AWS | 2026–2029 | [Credly](https://www.credly.com/badges/07f4ffb6-d07a-440c-aaa6-004438913160/linked_in_profile) |
 | Claude Certified Architect — Foundations (CCA-F) | Anthropic | 2026 | [Verify](https://verify.skilljar.com/c/aboejjci3y5m) |
@@ -116,6 +117,6 @@ AWS — from on-prem migrations to RAG platforms.
 
 <div align="center">
 
-🎸 Off the keyboard, I play guitar. &nbsp;·&nbsp; Open to interesting problems — reach out on [LinkedIn](https://linkedin.com/in/wagner-silva-6363a1154).
+🎸 Off the keyboard, I play guitar. &nbsp;·&nbsp; Open to interesting problems — reach out on [LinkedIn](https://linkedin.com/in/wagnersilva-eu).
 
 </div>
