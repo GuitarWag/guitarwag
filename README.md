@@ -22,6 +22,7 @@ Senior Software Engineer at [YLD](https://www.yld.com/), based in the EU. I buil
 | Credential | Issuer | Valid | Verify |
 |---|---|---|---|
 | Professional Cloud Architect | Google Cloud | 2026 | [Credly](https://www.credly.com/badges/9e4d8ce9-9429-4655-8fc8-aa20c880ea99/public_url) |
+| Professional Data Engineer | Google Cloud | 2026-2028 | [Credly](https://www.credly.com/badges/fb5744db-87b1-4673-ace3-a887566e5352/public_url) |
 | Associate Cloud Engineer | Google Cloud | 2025 | [Credly](https://www.credly.com/badges/73a3b178-df93-4a4e-b47b-1c3f067a7271/public_url) |
 | Cloud Practitioner | AWS | 2026-2029 | [Credly](https://www.credly.com/badges/07f4ffb6-d07a-440c-aaa6-004438913160/linked_in_profile) |
 | Claude Certified Architect, Foundations (CCA-F) | Anthropic | 2026 | [Verify](https://verify.skilljar.com/c/aboejjci3y5m) |
