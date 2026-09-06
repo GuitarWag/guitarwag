@@ -33,7 +33,7 @@ Senior Software Engineer at [YLD](https://www.yld.com/), based in the EU. I buil
 <!-- BLOG-POST-LIST:START -->
 - [Swap Out Your LLM Models with Ollama: Claude Code, Codex, and More](https://wagnersilva.eu/blog/swap-llm-models-ollama)
 - [Replace Docker Desktop with OrbStack on macOS](https://wagnersilva.eu/blog/orbstack-docker-replacement-mac)
-- [Log Sentinel: Open-Source Terminal App for Cloud Log Monitoring](https://wagnersilva.eu/blog/log-sentinel-open-source-terminal-app)
+- [Log Sentinel: Open-Source Terminal App for Cloud Log Monitoring and Error Investigation](https://wagnersilva.eu/blog/log-sentinel-open-source-terminal-app)
 - [I Hate AWS Service Names: A Reference Guide to GCP and Azure Equivalents](https://wagnersilva.eu/blog/aws-service-names-reference)
 - [The Firebase Bucket Security Misconception That Could Save Your Data](https://wagnersilva.eu/blog/firebase-bucket-security-misconception)
 <!-- BLOG-POST-LIST:END -->
